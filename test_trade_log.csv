@@ -1,0 +1,6 @@
+Time,Entry,Exit,Result,Strategy,Signal,NewsImpact,Sentiment,OrderFlow,PriceAction,Notes,Confidence
+2025-05-10 06:30:00,4180,4185,Win,VWAP Pullback,LONG,CPI,Bullish,Absorption,Support bounce,Good entry after CPI,88
+2025-05-10 06:40:00,4185,4180,Loss,,SHORT,None,Bearish,Imbalance,Double top,Too early,45
+2025-05-10 06:50:00,4190,4195,Win,,LONG,FOMC,Bullish,Absorption,Trend continuation,Followed plan,91
+2025-05-10 07:00:00,4183,4187,Win,Breakout Fail,SHORT,None,Neutral,None,Rejection,Late entry,86
+2025-05-10 07:10:00,4175,4172,Loss,,SHORT,NFP,Bearish,Trap,Breakdown,High risk,60
