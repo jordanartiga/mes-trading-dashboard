@@ -1,0 +1,51 @@
+Price,Volume,PriceAction,OrderFlow,News,Sentiment,Time,Result
+5176.67,9484,Reversal at support,Absorption at support,PPI above forecast,Bearish,01:01 PM Eastern,LOSS
+5173.22,10234,Double bottom formation,Sell imbalance,Fed meeting minutes released,Bullish,12:45 AM Eastern,WIN
+5170.94,9973,Double bottom formation,Heavy bid stacking,No major economic news,Neutral,07:32 PM Eastern,WIN
+5176.45,8624,Double bottom formation,Sell imbalance,PPI above forecast,Bullish,04:26 PM Eastern,WIN
+5176.25,10155,Breakout above resistance,Heavy bid stacking,PPI above forecast,Bearish,01:35 PM Eastern,WIN
+5187.88,9383,Rejection from high of day,Sell imbalance,CPI lower than expected,Neutral,04:16 PM Eastern,WIN
+5174.16,8747,Bouncing off VWAP,Resting bids building,No major economic news,Bearish,06:50 AM Eastern,WIN
+5179.0,9676,Bouncing off VWAP,Absorption at support,Unemployment up,Neutral,03:47 PM Eastern,LOSS
+5184.67,9450,Double bottom formation,Sell imbalance,PPI above forecast,Bearish,08:40 PM Eastern,WIN
+5171.06,8972,Breakout above resistance,Absorption at support,CPI lower than expected,Bearish,03:46 AM Eastern,WIN
+5175.03,9491,Bouncing off VWAP,Buy imbalance,CPI lower than expected,Bearish,08:10 AM Eastern,WIN
+5188.84,10454,Breakout above resistance,Resting bids building,Fed meeting minutes released,Bearish,10:02 PM Eastern,WIN
+5189.74,9766,Rejection from high of day,Absorption failed,Unemployment up,Bearish,01:08 PM Eastern,WIN
+5189.56,9946,Bouncing off VWAP,Sell imbalance,Fed meeting minutes released,Bearish,08:41 AM Eastern,LOSS
+5185.04,9261,Bouncing off VWAP,Buy imbalance,Fed meeting minutes released,Neutral,09:10 AM Eastern,LOSS
+5178.41,8680,Bouncing off VWAP,Sell imbalance,Fed meeting minutes released,Bullish,07:12 PM Eastern,WIN
+5179.94,10496,Double bottom formation,Buy imbalance,CPI lower than expected,Bearish,08:57 PM Eastern,LOSS
+5187.62,9448,Bouncing off VWAP,Heavy bid stacking,Unemployment up,Bearish,02:40 AM Eastern,LOSS
+5176.46,8768,Bouncing off VWAP,Heavy bid stacking,Fed meeting minutes released,Bullish,09:02 AM Eastern,WIN
+5180.65,9041,Breakout above resistance,Buy imbalance,Retail sales beat forecast,Bullish,07:01 PM Eastern,WIN
+5170.45,8693,Double bottom formation,Buy imbalance,No major economic news,Neutral,09:21 PM Eastern,LOSS
+5176.79,9541,Rejection from high of day,Sell imbalance,Retail sales beat forecast,Bullish,11:13 PM Eastern,LOSS
+5174.59,9603,Breakout above resistance,Absorption at support,Retail sales beat forecast,Neutral,11:00 AM Eastern,WIN
+5170.77,8880,Consolidating near VWAP,Buy imbalance,PPI above forecast,Bearish,11:23 PM Eastern,WIN
+5189.63,9564,Double bottom formation,Sell imbalance,No major economic news,Bearish,01:54 AM Eastern,WIN
+5186.8,8806,Consolidating near VWAP,Absorption failed,Fed meeting minutes released,Bearish,12:55 AM Eastern,WIN
+5170.06,8813,Rejection from high of day,Resting bids building,CPI lower than expected,Neutral,04:30 PM Eastern,WIN
+5180.84,10265,Double bottom formation,Buy imbalance,Unemployment up,Bullish,04:06 AM Eastern,WIN
+5183.37,8824,Double bottom formation,Buy imbalance,Fed meeting minutes released,Bullish,08:38 AM Eastern,WIN
+5180.7,10467,Bouncing off VWAP,Absorption failed,No major economic news,Bullish,08:13 AM Eastern,LOSS
+5177.8,9868,Breakout above resistance,Sell imbalance,Fed meeting minutes released,Neutral,10:08 PM Eastern,WIN
+5173.34,9794,Rejection from high of day,Absorption failed,Unemployment up,Bearish,03:54 PM Eastern,WIN
+5178.51,9582,Breakout above resistance,Resting bids building,CPI lower than expected,Neutral,07:31 PM Eastern,LOSS
+5182.79,10116,Rejection from high of day,Buy imbalance,CPI lower than expected,Bullish,10:45 AM Eastern,WIN
+5175.74,10291,Breakout above resistance,Absorption at support,CPI lower than expected,Neutral,08:43 PM Eastern,WIN
+5180.34,9899,Breakout above resistance,Absorption failed,CPI lower than expected,Bullish,12:38 PM Eastern,WIN
+5181.41,8585,Bouncing off VWAP,Sell imbalance,Retail sales beat forecast,Bullish,07:33 AM Eastern,WIN
+5178.55,9492,Reversal at support,Resting bids building,Retail sales beat forecast,Bullish,03:43 AM Eastern,LOSS
+5173.1,9037,Double bottom formation,Absorption at support,Retail sales beat forecast,Neutral,06:19 PM Eastern,LOSS
+5189.25,9464,Bouncing off VWAP,Sell imbalance,Fed meeting minutes released,Bullish,01:56 AM Eastern,WIN
+5186.41,8837,Consolidating near VWAP,Resting bids building,PPI above forecast,Bearish,07:09 PM Eastern,LOSS
+5174.38,10013,Breakout above resistance,Heavy bid stacking,Unemployment up,Neutral,08:42 AM Eastern,LOSS
+5171.55,9265,Double bottom formation,Buy imbalance,Retail sales beat forecast,Bearish,02:11 AM Eastern,WIN
+5171.25,10089,Rejection from high of day,Absorption failed,Retail sales beat forecast,Neutral,09:37 AM Eastern,WIN
+5170.58,9227,Consolidating near VWAP,Resting bids building,PPI above forecast,Bearish,11:29 PM Eastern,LOSS
+5186.75,9668,Reversal at support,Resting bids building,PPI above forecast,Neutral,08:56 PM Eastern,WIN
+5182.03,9427,Reversal at support,Absorption at support,No major economic news,Bearish,02:05 AM Eastern,WIN
+5186.77,8901,Consolidating near VWAP,Heavy bid stacking,No major economic news,Neutral,05:14 PM Eastern,WIN
+5187.36,8867,Reversal at support,Absorption failed,Retail sales beat forecast,Neutral,07:01 AM Eastern,WIN
+5183.82,9441,Breakout above resistance,Buy imbalance,CPI lower than expected,Bullish,09:42 AM Eastern,LOSS
